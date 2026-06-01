@@ -1,5 +1,11 @@
 #  Image Convolution — Linear Algebra Mini Project
 
+## Team Members 
+- **Ipsa Ratish Mishra** -  PES1UG24CS191
+- **Janhavi Ramakrishnan** - PES1IG24CS198
+- **Jiya Datta Banik** - PES1UG24CS202
+- **Sai Lavanya** - PES1UG24CS214
+
 > A step-by-step interactive terminal application demonstrating blurring, sharpening, edge detection, and core linear algebra concepts through image convolution.
 
  
@@ -8,7 +14,7 @@
 
 ##  Overview
 
-This project applies **Linear Algebra concepts** to real image processing using convolution kernels. Each step of the pipeline is explained mathematically, then visualized on an actual image — bridging theory and application.
+This project applies Linear Algebra concepts to real image processing using convolution kernels. Each step of the pipeline is explained mathematically, then visualized on an actual image — bridging theory and application.
 
 Topics covered include:
 - Matrix representation of images
