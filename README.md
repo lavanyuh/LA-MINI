@@ -57,14 +57,14 @@ Topics covered include:
 pip install numpy opencv-python matplotlib scipy
 ```
 
-> Make sure `einstein.jpeg` is in the same folder as `lab06_full.py`.
+> Make sure `einstein.jpeg` is in the same folder as your project folder.
 
 ---
 
 ##  How to Run
 
 ```bash
-python lab06_full.py
+python laa2.py
 ```
 
 A terminal menu will launch. Run steps in order for best results — steps 3–17 require Step 1 (load image), and steps 3–6 require Step 2 (add noise).
